@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dx12RenderToy", "Dx12RenderToy\Dx12RenderToy.vcxproj", "{3FD9E367-87D3-4965-929D-9EB261AB8AA4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WindowsCommons", "WindowsCommons", "{CD3DE40B-E333-49DB-A618-08029F8FB44A}"
+	ProjectSection(SolutionItems) = preProject
+		WindowsCommons\d3dx12.h = WindowsCommons\d3dx12.h
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

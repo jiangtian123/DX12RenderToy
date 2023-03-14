@@ -9,4 +9,5 @@ struct Object
 	XMFLOAT3 normal;
 	XMFLOAT2 uv;
 };
+
 #endif
